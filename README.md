@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Berlin Johns.M
 - 👀 I’m interested in Programming,Security Testing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning mabile app development
+- 💞️ I’m looking for my first job
+- 📫 
 
 <!---
 recon-falcon/recon-falcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
